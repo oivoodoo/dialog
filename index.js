@@ -5,7 +5,7 @@
 
 var Emitter = require('emitter')
   , overlay = require('overlay')
-  , o = require('jquery');
+  , o = require('zepto-component');
 
 /**
  * Active dialog.
