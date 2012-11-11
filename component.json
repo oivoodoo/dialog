@@ -5,7 +5,7 @@
   "keywords": ["dialog", "ui", "modal"],
   "dependencies": {
     "component/emitter": "*",
-    "component/jquery": "*",
+    "component/zepto": "*",
     "component/overlay": "*"
   },
   "scripts": ["index.js", "template.js"],
