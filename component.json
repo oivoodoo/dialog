@@ -6,7 +6,7 @@
   "dependencies": {
     "component/emitter": "*",
     "component/zepto": "*",
-    "component/overlay": "*"
+    "oivoodoo/overlay": "*"
   },
   "scripts": ["index.js", "template.js"],
   "styles": ["dialog.css"]
